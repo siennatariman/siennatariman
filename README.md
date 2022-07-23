@@ -8,4 +8,4 @@
 siennatariman/siennatariman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- ... Hello this is a work in progress, kindly disregard if you see this. I just wanted to see how it would look like. :) 
+ ... Hello, this is a work in progress; kindly disregard if you see this. I just wanted to see how it would look like. :) 
